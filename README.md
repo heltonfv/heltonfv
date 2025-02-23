@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou o Helton 👋
 
-<!--
-**heltonfv/heltonfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, especializado em **PHP/Laravel** e **React**, e estou explorando tecnologias mais modernas para ampliar minhas habilidades. Atualmente, estou focado em **microsserviços** e **mensageria** para alta performance e aplicações altamente escaláveis.
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Back-end**: Laravel, PHP, Spring Boot, Node.js
+- **Front-end**: React, Next.js, TailwindCSS
+- **Banco de Dados**: PostgreSQL, MySQL, Redis
+- **DevOps**: Docker, Jenkins, Google Cloud, CI/CD
+- **Outros**: Swagger, API REST, Microsserviços
+
+## 📚 Meu aprendizado recente
+- Como otimizar consultas em bancos de dados de alta performance.
+- Configuração de infraestrutura na **Google Cloud**.
+- Estratégias avançadas para desenvolvimento multi-tenant.
+
+## 👉 Onde me encontrar?
+- LinkedIn: [https://linkedin.com/in/heltonvarela](#)
+- Portfólio: [https://devhelton.com](#)
+- Email: [heltonapp@gmail.com](#)
+
+Se quiser bater um papo sobre tecnologia ou discutir oportunidades, fique à vontade para me chamar! 🚀
