@@ -4,9 +4,9 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **PHP/Laravel**
 
 ## ⚙️ Tecnologias e Ferramentas
 
-- **Back-end**: Laravel, PHP, Spring Boot, Node.js
-- **Front-end**: React, Next.js, TailwindCSS
-- **Banco de Dados**: PostgreSQL, MySQL, Redis
+- **Back-end**: Laravel, PHP
+- **Front-end**: React, TailwindCSS
+- **Banco de Dados**: PostgreSQL, MySQL
 - **DevOps**: Docker, Jenkins, Google Cloud, CI/CD
 - **Outros**: Swagger, API REST, Microsserviços
 
